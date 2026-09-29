@@ -1,0 +1,39 @@
+# Evapad
+
+Evapad is a compact 4-key macropad with an EC11 rotary encoder powered by the Seeed Studio XIAO RP2040.
+
+## Features
+* **4-Key Layout:**
+* **EC11 Rotary Encoder:**
+* **Dual-Layer Case:** 
+* **XIAO RP2040 Powered:**
+
+## CAD Model
+<img width="2163" height="1240" alt="image" src="https://github.com/user-attachments/assets/5577e284-8487-4f88-991e-6878f4be17c1" />
+
+
+## PCB
+Designed from scratch in KiCad.
+* MX-compatible switch footprints.
+<img width="858" height="1179" alt="image" src="https://github.com/user-attachments/assets/b9e980d9-612e-42b8-9410-7ae6e6d541ed" />
+## Schem
+<img width="742" height="471" alt="image" src="https://github.com/user-attachments/assets/26495e4e-bfa5-493a-96d9-ea40995e11c5" />
+
+
+## Firmware Overview
+Configured for flexible layout changes QMK:
+* **Rotary Encoder:** Rotates for volume control, press down to toggle mute.
+* **4 Keys:** Mapped to custom shortcuts and macro actions.
+
+## BOM (Bill of Materials)
+
+Here is everything you need to build the Evapad:
+
+* 4x Cherry MX (or compatible) Switches
+* 4x DSA Keycaps
+* 4x M3 Heatset Inserts
+* 4x M3 Bolts
+* 5x 1N4148 Diodes
+* 1x EC11 Rotary Encoder
+* 1x Seeed Studio XIAO RP2040
+* 1x Custom Case (2-layer design)
