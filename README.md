@@ -10,6 +10,8 @@ Evapad is a compact 4-key macropad with an EC11 rotary encoder powered by the Se
 
 ## CAD Model
 <img width="2163" height="1240" alt="image" src="https://github.com/user-attachments/assets/5577e284-8487-4f88-991e-6878f4be17c1" />
+<img width="1008" height="458" alt="image" src="https://github.com/user-attachments/assets/8e37274f-7545-4a01-822c-ea5187b09796" />
+<img width="1014" height="651" alt="image" src="https://github.com/user-attachments/assets/e44a6cf3-0628-4c8b-bdd1-b7692d83cfba" />
 
 
 ## PCB
@@ -17,8 +19,7 @@ Designed from scratch in KiCad.
 * MX-compatible switch footprints.
 <img width="858" height="1179" alt="image" src="https://github.com/user-attachments/assets/b9e980d9-612e-42b8-9410-7ae6e6d541ed" />
 <img width="742" height="471" alt="image" src="https://github.com/user-attachments/assets/26495e4e-bfa5-493a-96d9-ea40995e11c5" />
-<img width="1008" height="458" alt="image" src="https://github.com/user-attachments/assets/8e37274f-7545-4a01-822c-ea5187b09796" />
-<img width="1014" height="651" alt="image" src="https://github.com/user-attachments/assets/e44a6cf3-0628-4c8b-bdd1-b7692d83cfba" />
+
 
 
 
